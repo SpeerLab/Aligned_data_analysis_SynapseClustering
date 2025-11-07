@@ -1,5 +1,6 @@
 # Aligned_data_analysis_SynapseClustering
-Data analysis for publication 'Eye-specific synaptic clustering through activity-dependent stabilization and punishment mechanisms in the developing visual system'
+Data analysis for 'Eye-specific differences in active zone addition during synaptic competition in the developing visual system'
+Zhang et al. eLife 2023;12:RP91431. DOI: https://doi.org/10.7554/eLife.91431
 
 ## Cluster Volume: 
 Extract volume information from complex or simple clusters for visualization and statistical analysis. 
